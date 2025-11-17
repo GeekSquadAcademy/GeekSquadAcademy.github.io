@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://geeksquadacademy.github.io/sitemap.xml
